@@ -18,7 +18,7 @@ header {
 
 
 .bg_area {
-    background: url(/img/under_mainbanner01.png);
+    background: url(/under_mainbanner01.png);
     height: 100vh;
     position: absolute;
     width: 100%;
@@ -266,7 +266,7 @@ header > p {
 
 /* 다이어트 섹션 시작 */
 .diet_section {
-    background: url(/img/bottom_bg.png);
+    background: url(/bottom_bg.png);
     height: 740px; 
     display: flex;
     flex-direction: column;
